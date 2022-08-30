@@ -1,7 +1,7 @@
 # simple mancala ai
 
 A program that tries to help you in mancala by giving you recommendations on your next move.
-Alwas works from your point of view - 
+It always works from your point of view - 
 
 `````````````````````````````````````
 
